@@ -25,6 +25,6 @@ This project showcases a robust production environment within a Virtual Private 
 
 º https://docs.aws.amazon.com/vpc/  
 º https://docs.aws.amazon.com/autoscaling/  
-º https://docs.aws.amazon.com/elasticloadbalancing/
+º https://docs.aws.amazon.com/elasticloadbalancing/    
 ºhttps://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html  
 º https://docs.aws.amazon.com/iam/
